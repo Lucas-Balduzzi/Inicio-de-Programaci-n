@@ -1,2 +1,2 @@
-# Inicio-de-Programaci-n
+# Inicio-de-Programacion
 Motivación Personal
